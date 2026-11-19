@@ -8,6 +8,20 @@
     <link rel="stylesheet" href="https://bootswatch.com/5/minty/bootstrap.min.css">
 </head>
 <body>
+    <!-- navbar -->
+<nav class="navbar navbar-expand-sm bg-primary" data-bs-theme="dark">
+    <div class="container">
+
+        <a class="navbar-brand" href="index.php">Dulce Michi</a>
+
+        <div class="navbar-nav flex-row flex-wrap gap-3">
+            <a class="nav-link" href="index.php">Inicio</a>
+            <a class="nav-link" href="catalogo.php">Pasteles</a>
+            <a class="nav-link" href="carrito.php">🛒 Carrito</a>
+        </div>
+
+    </div>
+</nav>
     <main class="container py-5">
     <div class = card>
         <div class="card-body text-center">
