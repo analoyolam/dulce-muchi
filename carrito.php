@@ -23,6 +23,7 @@
             <div class="navbar-nav flex-row flex-wrap gap-3">
                 <a class="nav-link" href="index.php">Inicio</a>
                 <a class="nav-link" href="carrito.php">🛒 Carrito</a>
+                <a class="nav-link" href="iniciar_sesion.php">Cuenta</a>
             </div>
 
         </div>

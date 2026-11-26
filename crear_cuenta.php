@@ -101,8 +101,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             <div class="navbar-nav flex-row gap-3">
                 <a class="nav-link" href="index.php">Inicio</a>
                 <a class="nav-link" href="carrito.php">Carrito</a>
-                <a class="nav-link active" href="crear_cuenta.php">
-                    Crear cuenta
+                <a class="nav-link" href="iniciar_sesion.php">Cuenta</a>
+                   
                 </a>
             </div>
         </div>
@@ -161,10 +161,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             <a href="index.php" class="btn btn-outline-primary">
                 Volver al inicio
             </a>
-
         </form>
-
     </main>
-
 </body>
 </html>

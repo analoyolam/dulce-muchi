@@ -18,7 +18,7 @@
             <a class="nav-link" href="index.php">Inicio</a>
             <a class="nav-link" href="catalogo.php">Pasteles</a>
             <a class="nav-link" href="carrito.php">🛒 Carrito</a>
-            <a class="nav-link" href="crear_cuenta.php">Cuenta</a>
+            <a class="nav-link" href="iniciar_sesion.php">Cuenta</a>
         </div>
 
     </div>
